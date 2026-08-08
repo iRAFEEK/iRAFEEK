@@ -18,10 +18,11 @@ Most churches I know run on three WhatsApp groups and a spreadsheet someone's co
 Priced at cost. No margin, no tiers. **[It's live →](https://www.miaekklesia.com)**
 
 **What I own:**
+- I was the first engineer on the project after the founder
 - Tenant isolation across ~94 PostgreSQL tables — row-level security policies plus active-membership checks, so no query can wander into another church's data
 - Post-deployment verification for the live app: SSR rendering, cron authentication, and schema drift
 
-*Co-built with a small team. The source is private — it holds real congregation data — but I'm happy to walk through the architecture, or grant repo access for a code review. Just ask.*
+*Built with the founder. The source is private — it holds real congregation data — but I'm happy to walk through the architecture, or grant repo access for a code review. Just ask.*
 
 ### 🧠 [decision-ledger](https://github.com/iRAFEEK/decision-ledger) — "wait, why did we decide that?"
 `Python` · `FastAPI` · `PostgreSQL + pgvector` · `Redis/arq` · `Next.js` · `Docker`
