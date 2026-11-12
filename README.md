@@ -6,6 +6,8 @@ CS at Minerva University, San Francisco, class of 2029. Backend-leaning. Current
 
 📍 San Francisco · ✉️ rafeek.abdo@uni.minerva.edu · [LinkedIn](https://www.linkedin.com/in/rafeek-hanna-b89254363/)
 
+📄 [Download my résumé (PDF)](https://github.com/iRAFEEK/iRAFEEK/raw/refs/heads/main/Rafeek-Hanna-Resume.pdf)
+
 ---
 
 ## Things I've built
